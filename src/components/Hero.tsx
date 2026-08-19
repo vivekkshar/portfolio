@@ -48,7 +48,7 @@ export default function Hero() {
           transition={{ duration: 0.5 }}
           className="mb-6 font-mono text-sm text-muted"
         >
-          <span className="text-rose">//</span> welcome to my portfolio
+          <span className="text-rose">{"//"}</span> welcome to my portfolio
         </motion.p>
 
         <div className="mb-8 min-h-[1.5rem] font-mono text-sm text-cyan sm:text-base">
